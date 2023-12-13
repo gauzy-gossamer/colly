@@ -6,7 +6,7 @@ import (
 
 	whatwgUrl "github.com/nlnwa/whatwg-url/url"
 
-	"github.com/gocolly/colly/v2"
+	"github.com/gauzy-gossamer/colly/v2"
 )
 
 const stop = true
